@@ -1,0 +1,3 @@
+event_name,start_period,end_period,category,description,source_url
+Awal pandemi COVID-19,202003,202006,Eksternal,"Penurunan tajam wholesale tampak pada Apr-Jun 2020 di dataset. Isi source_url dengan sumber yang kamu verifikasi sendiri.",
+Penjualan perdana Zenix,202211,202211,Produk,"Bulan pertama baris Zenix dengan wholesale > 0 di dataset (diturunkan dari data, bukan dari sumber eksternal).",
